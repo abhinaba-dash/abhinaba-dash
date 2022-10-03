@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhinaba-dash
+- 👋 Hi, I’m Abhinaba dash
 - 👀 I’m interested in graphic designing and competitive programming 
 - 🌱 I’m currently learning flutter
 - Check out my behance account https://www.behance.net/abhinabdash1
