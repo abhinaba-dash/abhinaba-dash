@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhinaba dash
 - 🌱 I’m currently learning flutter
 - 👀 I’m interested in graphic designing and competitive programming
-- Check out my linkedin account [[https://www.behance.net/abhinabdash1](https://www.linkedin.com/in/abhinaba-dash-59654a242/)](https://www.linkedin.com/in/abhinaba-dash-59654a242/)
+- Check out my linkedin account [https://www.linkedin.com/in/abhinaba-dash-59654a242/](https://www.linkedin.com/in/abhinaba-dash-59654a242/)
 - Check out my behance account https://www.behance.net/abhinabdash1
 - Check out my codechef account https://www.codechef.com/users/abhinaba_dash
 - 📫 How to reach me 
