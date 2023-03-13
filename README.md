@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Flutter and ML**
 
-- 👨‍💻 All of my design projects are available at [https://www.behance.net/abhinabdash1](https://www.behance.net/abhinabdash1)
+- 👨‍💻 All of my design projects are available at [my Behance profile](https://www.behance.net/abhinabdash1)
 
 - 💬 Ask me about **Graphic design and UI/UX**
 
 - 📫 How to reach me **abhinabadash19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/14g90qQA3E9SNO_rrIjXHC4mtb0L3UWDV?usp=sharing](https://drive.google.com/drive/folders/14g90qQA3E9SNO_rrIjXHC4mtb0L3UWDV?usp=sharing)
+- 📄 Know about my experiences in [my Resume](https://drive.google.com/drive/folders/14g90qQA3E9SNO_rrIjXHC4mtb0L3UWDV?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhinaba-dash-59654a242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinaba-dash-59654a242/" height="30" width="40" /></a>
