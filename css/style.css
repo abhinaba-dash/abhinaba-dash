@@ -3297,7 +3297,6 @@ button.button-all {
   font-size: 17px;
   font-style: normal;
   font-weight: 700;
-  letter-spacing: -0.04em;
   color: #fff;
   margin: 0 0 -8px 0;
   -webkit-pointer-events: none;
@@ -3314,7 +3313,7 @@ button.button-all {
 
 .page-loaded .right-side p {
   position: relative;
-  font-weight: 600;
+  font-weight: 500;
   opacity: 1;
   -moz-opacity: 1;
   -webkit-opacity: 1;
@@ -3328,7 +3327,7 @@ button.button-all {
   font-family: 'archivo', sans-serif;
   font-size: 18px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
   /* text-transform: uppercase; */
   text-align: left;
   color: #fff;
