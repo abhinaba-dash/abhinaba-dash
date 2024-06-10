@@ -1,13 +1,4 @@
-﻿/*
-  [JS Index - plugins]
-  
-  ---
-  
-  Template Name: Runex - One Page Portfolio Template
-  Author:  ex-nihilo
-  Version: 1.2
-*/
-
+﻿
 /*
   1. jQuery v3.6.0
   2. glsl-easings v1.0.0

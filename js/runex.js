@@ -1,12 +1,3 @@
-/*
-  [JS Index]
-  
-  ---
-  
-  Template Name: Runex - One Page Portfolio Template
-  Author:  ex-nihilo
-  Version: 1.2
-*/
 
 /*
   1. preloader
